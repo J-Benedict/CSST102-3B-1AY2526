@@ -1,0 +1,1 @@
+In this activity, i evaluated machine learning model performance by using logistic regression. The dataset used is breast cancer and multiple statistical methods were used to measure the model's accuracy and precision.

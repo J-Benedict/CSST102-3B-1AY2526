@@ -1,0 +1,1 @@
+The 5 fold cross validation shows a mean accuracy of 0.9758 with a standard deviation of 0.0146, A low standard deviation relative to the mean indicates the model's performance is consistent across different subsets of the training data, suggesting that the model is not overly sensitive to the specific training data split.
